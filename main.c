@@ -164,7 +164,7 @@ void mainproc(void* arg)
 		/* draw ghosts  */
 	//	drawGhosts(&glistp);
 
-		/* draw paccie  */
+		/* draw pacman  */
 /* TODO  */
 		
 		/* finish display list and sync mainthread with RDP  */
